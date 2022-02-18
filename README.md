@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [PostgreSQL](https://github.com/Astrospence/build-week-secret-family-recipes)
 
-- 👨‍💻 All of my projects are available at [- still building -](- still building -)
+- 👨‍💻 I'm working on a portfolio to hold my best projects!
 
 - 💬 Ask me about **Javascript, HTML, CSS, React**
 
