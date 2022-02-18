@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **spencer.wood711@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10Qyh9_0Q3mB3-6Hmho629DcSkNTV2Crbd9EPkHxt9yY/edit](https://docs.google.com/document/d/10Qyh9_0Q3mB3-6Hmho629DcSkNTV2Crbd9EPkHxt9yY/edit)
-
 - ⚡ Fun fact **My favorite hobby is Magic The Gathering**
 
 <h3 align="left">Connect with me:</h3>
