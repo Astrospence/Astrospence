@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Python, React, Node.js, Deployment**
 
-- 🤝 I’m looking for help with [PostgreSQL](https://github.com/Astrospence/build-week-secret-family-recipes)
+- 🤝 I’m looking for help with [Javascript Problem Solving]
 
 - 👨‍💻 I'm working on a portfolio to hold my best projects!
 
