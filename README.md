@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **spencer.wood711@gmail.com**
 
-- ⚡ Fun fact **My favorite hobby is Magic The Gathering**
+- ⚡ Fun fact **I love Lego, Magic the Gathering, and light gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
