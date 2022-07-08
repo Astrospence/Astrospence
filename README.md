@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spencer Wood</h1>
 <h3 align="center">A passionate Full-Stack Web Developer/Software Engineer</h3>
 
-- 🔭 I’m currently working on [Underdog Devs](https://github.com/BloomTech-Labs/underdog-devs-be-a)
+- 🔭 I’m currently working on a Nerf Tag Battle Game
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, Python, React, Node.js, Deployment**
 
