@@ -7,7 +7,7 @@
   
 - 🌱 I'm interested in learning **AWS, Next.js, SQL, Node.js, Databases, Security**
 
-- 💬 Ask me about **Javascript, HTML, CSS, React, Gatsby**
+- 💬 Ask me about **Javascript, HTML, CSS, React, Gatsby, My Hunger to Learn**
 
 - 📫 How to reach me **spencer.wood711@gmail.com**
 
