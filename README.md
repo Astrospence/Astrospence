@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Spencer Wood</h1>
 <h3 align="center">A passionate Full-Stack Web Developer/Software Engineer</h3>
 
-- 🔭 I’m currently working on a Nerf Tag Battle Game
+- 🔭 I’m currently working on Entrata.com
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, Python, React, Node.js, Deployment**
+- 🌱 I’m currently using **Javascript, HTML, CSS, React, Gatsby, Deployment**
+  
+- 🌱 I'm interested in learning **AWS, Next.js, SQL, Node.js, Databases, Security**
 
-- 🤝 I’m looking for help with [My Portfolio](https://github.com/Astrospence/Portfolio)
-
-- 👨‍💻 I'm working on a portfolio to hold my best projects!
-
-- 💬 Ask me about **Javascript, HTML, CSS, React**
+- 💬 Ask me about **Javascript, HTML, CSS, React, Gatsby**
 
 - 📫 How to reach me **spencer.wood711@gmail.com**
 
