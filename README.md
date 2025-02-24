@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spencer Wood</h1>
 <h3 align="center">A Growing Full-Stack Web Developer/Software Engineer</h3>
 
-- 🔭 I’m currently working on Entrata.com
+- 🔭 I’m currently looking for my next Software Development role!
 
 - 🌱 I’m currently using **Javascript, HTML, CSS, React, Gatsby, Deployment**
   
